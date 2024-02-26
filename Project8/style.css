@@ -1,0 +1,43 @@
+html {
+    background-color: white;
+}
+
+Body {
+background-color: bisque;
+font-size: 20px;
+color: black;
+width: 900px;
+margin: 20px auto;
+padding: 20px;
+border-radius: 20px;
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+}
+
+header img {
+    background-color: black;
+    margin: 20px auto;
+    width: 30%;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 40px 0;
+    border-radius: 0 0 40px 40px;
+}
+
+h1, h2 {
+    color: black;
+    background-color: saddlebrown;
+    font-size: 29px;
+    text-align: center;
+}
